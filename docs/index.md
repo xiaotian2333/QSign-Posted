@@ -6,8 +6,8 @@
 
 ## 签名地址
 
-t1节点
+t1节点（9.0.56）
 
 ``` url
-https://t1.qsign.xt-url.com?key=xiaotian
+https://t1.qsign.xt-url.com?key=qq628306033
 ```
